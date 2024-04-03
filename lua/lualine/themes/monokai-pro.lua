@@ -21,8 +21,8 @@ M.insert = {
 }
 
 M.command = {
-  a = { bg = colors.base.blue, fg = colors.base.black },
-  b = { bg = colors.base.dimmed5, fg = colors.base.blue },
+  a = { bg = colors.base.cyan, fg = colors.base.black },
+  b = { bg = colors.base.dimmed5, fg = colors.base.cyan },
 }
 
 M.visual = {
