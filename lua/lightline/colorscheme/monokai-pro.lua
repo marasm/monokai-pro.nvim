@@ -4,12 +4,12 @@ local M = {}
 
 M.normal = {
   left = {
-    { colors.base.black, colors.base.green },
+    { colors.base.black, colors.base.yellow },
     { colors.base.yellow, colors.editorSuggestWidget.background },
   },
   middle = { { colors.base.black, colors.base.black } },
   right = {
-    { colors.base.black, colors.base.greeen },
+    { colors.base.black, colors.base.yellow },
     { colors.base.yellow, colors.editorSuggestWidget.background },
   },
   error = { { colors.base.black, colors.base.red } },
@@ -18,8 +18,8 @@ M.normal = {
 
 M.insert = {
   left = {
-    { colors.base.black, colors.base.yello },
-    { colors.base.yellow, colors.editorSuggestWidget.background },
+    { colors.base.black, colors.base.green },
+    { colors.base.green, colors.editorSuggestWidget.background },
   },
 }
 
