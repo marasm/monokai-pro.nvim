@@ -1,5 +1,58 @@
 # Changelog
 
+## [1.26.1](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.26.0...v1.26.1) (2025-08-03)
+
+
+### Bug Fixes
+
+* **bufferline:** cannot load icons after lazy install a plugin ([fafe038](https://github.com/loctvl842/monokai-pro.nvim/commit/fafe038058b8411ec77e296c63f7e62e73466c5f))
+* Merge pull request [#150](https://github.com/loctvl842/monokai-pro.nvim/issues/150) from elliotf/make-cursorcolumn-function ([#14](https://github.com/loctvl842/monokai-pro.nvim/issues/14), [#16](https://github.com/loctvl842/monokai-pro.nvim/issues/16), [#23](https://github.com/loctvl842/monokai-pro.nvim/issues/23) and [#61](https://github.com/loctvl842/monokai-pro.nvim/issues/61)) ([7053178](https://github.com/loctvl842/monokai-pro.nvim/commit/70531782b4b6c11129718d70fda7404696319102))
+
+## [1.26.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.25.0...v1.26.0) (2025-02-24)
+
+
+### Features
+
+* add support for blink and snacks plugins ([0f392de](https://github.com/loctvl842/monokai-pro.nvim/commit/0f392dec3c43562ffe27ccbcfaaaa71cd92e5c59))
+* **theme:** add support for blink and snacks plugins ([f8ea198](https://github.com/loctvl842/monokai-pro.nvim/commit/f8ea1989a387b00535363f41f77b2724f945719c))
+* **theme:** add support for blink and snacks plugins ([2f239fd](https://github.com/loctvl842/monokai-pro.nvim/commit/2f239fd9ee935b41ac6c1d3ac533879e9f9d1ec9))
+
+## [1.25.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.24.0...v1.25.0) (2024-12-16)
+
+
+### Features
+
+* release light theme ([8a202aa](https://github.com/loctvl842/monokai-pro.nvim/commit/8a202aae4e3b8c26a31be91c14c52ff4a5a03f91))
+
+## [1.24.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.23.0...v1.24.0) (2024-11-20)
+
+
+### Features
+
+* re-organize treesitter highlight and semantic token ([5f28c9e](https://github.com/loctvl842/monokai-pro.nvim/commit/5f28c9eb15ef5aafafbe17780407ad9600b18a01))
+
+## [1.23.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.22.0...v1.23.0) (2024-10-03)
+
+
+### Features
+
+* support python highlighting ([6837a66](https://github.com/loctvl842/monokai-pro.nvim/commit/6837a66909c5ae5cadffdd719ea57e04a6d83195))
+* support treesitter yaml ([b12c243](https://github.com/loctvl842/monokai-pro.nvim/commit/b12c24354018b52c264729b9957ec2f8b2d81a3e))
+
+## [1.22.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.21.2...v1.22.0) (2024-09-18)
+
+
+### Features
+
+* support fzf-lua ([5fff1b3](https://github.com/loctvl842/monokai-pro.nvim/commit/5fff1b370d9281ab213168bae921c820ed577c39))
+
+## [1.21.2](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.21.1...v1.21.2) (2024-05-25)
+
+
+### Bug Fixes
+
+* broken noice.nvim, and fix color treesitter ([25e149c](https://github.com/loctvl842/monokai-pro.nvim/commit/25e149ca0102ea182bafa43a4c7b30d397f12f16))
+
 ## [1.21.1](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.21.0...v1.21.1) (2024-04-01)
 
 
