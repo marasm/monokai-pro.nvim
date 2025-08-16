@@ -4,7 +4,6 @@ return {
   dark1 = "#1d2528",
   background = "#273136",
   text = "#f2fffc",
-  border = "#f2fffc",
   accent1 = "#ff6d7e",
   accent2 = "#ffb270",
   accent3 = "#ffed72",

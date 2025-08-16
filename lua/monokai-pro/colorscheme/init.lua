@@ -62,12 +62,12 @@ M.get = function(filter)
 
   cs.editorHoverWidget = {
     background = p.dimmed5,
-    border = p.border,
+    border = p.text,
   }
 
   cs.editorSuggestWidget = {
     background = p.dimmed5, -- "#403e41",
-    border = p.border, -- "#403e41",
+    border = p.text, -- "#403e41",
     foreground = p.dimmed1, -- "#c1c0c0",
     highlightForeground = p.text, -- "#fcfcfa",
     selectedBackground = p.dimmed3, -- "#727072",

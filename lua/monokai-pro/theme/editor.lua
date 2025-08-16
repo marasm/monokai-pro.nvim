@@ -107,7 +107,7 @@ M.setup = function(c, config, hp)
       bg = c.editor.background,
       fg = c.editorSuggestWidget.foreground,
     } or {
-      -- bg = c.editorHoverWidget.background,
+      --bg = c.editorHoverWidget.background,
       bg = c.base.black,
       fg = c.base.dimmed1,
     }, -- Normal text in floating windows. example PackerNormal
@@ -116,7 +116,7 @@ M.setup = function(c, config, hp)
       fg = c.editorSuggestWidget.foreground,
     } or {
       bg = c.editor.background,
-      fg = c.base.black,
+      fg = c.editorSuggestWidget.foreground,
     },
     FloatTitle = float_winBackgroundClear and {
       bg = c.editor.background,
