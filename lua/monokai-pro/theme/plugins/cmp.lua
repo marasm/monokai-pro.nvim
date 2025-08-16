@@ -4,6 +4,10 @@ local M = {}
 --- @param hp Helper
 function M.get(c, _, hp)
   return {
+   -- hrsh7th/nvim-cmp
+    CmpDocumentation = { fg = c.editorSuggestWidget.foreground, bg = c.editorSuggestWidget.background },
+    CmpDocumentationBorder = { fg = c.editorSuggestWidget.foreground, bg = c.editorSuggestWidget.background },
+    
     CmpItemAbbrMatch = { fg = c.editorSuggestWidget.highlightForeground, bold = true }, -- text match in order
     CmpItemAbbrMatchFuzzy = { link = "CmpItemAbbrMatch" }, -- text match not in order
     CmpItemMenu = { fg = hp.lighten(c.editorSuggestWidget.foreground, -15) }, -- source of cmp. Ex: Lsp | Snippet
